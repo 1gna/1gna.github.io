@@ -376,11 +376,11 @@ h1 .li, h2 .li, h3 .li, p .li {
     margin: 0.75em 0 0 1em;
 }
 
-#text02 br + br {
+.text02 br + br {
     margin-top: 0.9rem;
 }
 
-#text02 {
+.text02 {
     font-size: 1.125em;
     line-height: 1.5;
     font-weight: 300;
