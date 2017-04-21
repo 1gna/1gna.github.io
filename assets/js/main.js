@@ -71,3 +71,6 @@ if (browser == 'android') {
         on('load', f);
     })();
 }
+
+// something for the nerds
+console.log('%c+----------------------------+\n|  spɹǝu ʍoʃʃǝɟ ɹno ǝʞıʃ ǝM  |\n|                            |\n| https://template42.carrd.co|\n+----------------------------+', 'background: black; color: green');
